@@ -1,0 +1,9 @@
+IOC: 8.8.8.8
+Malicious: 0
+Suspicious: 0
+Harmless: 85
+
+IOC: 1.1.1.1
+Malicious: 0
+Suspicious: 0
+Harmless: 90
