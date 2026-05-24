@@ -7,6 +7,8 @@ Python tool for IOC enrichment using VirusTotal API.
 - IP reputation lookup
 - File hash lookup
 - VirusTotal integration
+- Bulk IOC enrichment
+- File hash analysis
 
 ## Usage
 
@@ -18,4 +20,15 @@ python ioc_lookup.py
 
 ```bash
 pip install requests
+```
+### Bulk IOC Lookup
+
+```bash
+python bulk_ioc_checker.py
+```
+
+### File Hash Reputation Check
+
+```bash
+python hash_checker.py
 ```
